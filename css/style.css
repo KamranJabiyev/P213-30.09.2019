@@ -1,0 +1,68 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+/* .text-test {
+    width: 50%;
+    border: 1px solid;
+    min-height: 100px;
+}
+
+p {
+    color: red;
+    text-align: justify;
+    text-transform: lowercase;
+    text-indent: 50px;
+    letter-spacing: 0;
+    line-height: 1;
+    direction: rtl;
+}
+
+h1 {
+    text-decoration: line-through underline;
+} */
+
+
+/* * {
+    font-family: Arial, Helvetica, sans-serif
+} */
+
+p {
+    /* word-spacing: 10px;
+    font-size: 20px;
+    font-style: italic; */
+    /* font-weight: bold; */
+}
+
+
+/* h1 {
+    font-size: 3em;
+} */
+
+
+/* .other-font {
+    font-family: 'Courier New', Courier, monospace
+} */
+
+
+/* body {
+    font-size: 100%;
+} */
+
+
+/* @font-face {
+    font-family: Artful;
+    src: url("../fonts/ArtfulBeauty.otf");
+}
+
+h1 {
+    font-family: Artful;
+    font-family: 'Mansalva', cursive;
+} */
+
+.fa-facebook-square {
+    color: blue;
+    font-size: 40px;
+}
